@@ -9,11 +9,12 @@ int main()
     std::cin >> name;
     std::cout << "Hello " << name << "!" <<stdl::endl;
 
-return 1;
+return 0;
 
 
 
 
+}
 
 
 
